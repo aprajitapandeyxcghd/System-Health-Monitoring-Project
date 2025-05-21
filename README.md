@@ -23,7 +23,7 @@ The script logs these metrics to a file and can send email notifications when sy
 
 1. **Clone the repository**
 
-git clone https://github.com/yourusername/system-health-monitor.git
+git clone https://github.com/aprajitapandeyxcghd/System-Health-Monitoring-Project.git
 cd system-health-monitor
 
 2. **Configure the script**
